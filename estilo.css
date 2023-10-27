@@ -22,7 +22,18 @@ body{
     color: rgb(230, 230, 230)
 }
 
-.topo h2, h4 {
-    margin-left: 20px; 
+.topo h2 {
+    margin-left: 30px; 
     color: rgb(230, 230, 230)
+}
+
+.topo h4 {
+    margin: 0;
+    margin-left: 30px; 
+    color: rgb(230, 230, 230)
+}
+
+.Sobre {
+    text-align: justify;
+    font-size: 14pt;
 }
