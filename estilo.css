@@ -38,12 +38,9 @@ body{
 }
 
 .topo {
-    background-color: rgb(0, 47, 47);
-}
-
-.topo {
     display: flex; 
     align-items: center;
+    background-color: rgb(0, 47, 47);
 }
 
 .topo img{
@@ -72,4 +69,5 @@ body{
 .Sobre {
     text-align: justify;
     font-size: 14pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
